@@ -7,7 +7,7 @@
 
 
 
-![](scroll.png) ![](save.png)![](click.png) 
+![](scroll.png)![](save.png)![](click.png) 
 
 
 
