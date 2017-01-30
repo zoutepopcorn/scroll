@@ -1,3 +1,5 @@
 # scroll
 
-![Image of Yaktocat](screenshot.png)
+![](icon.png)
+
+![](screenshot.png)
