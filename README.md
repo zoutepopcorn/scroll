@@ -5,10 +5,7 @@
 
 **Scroll your page by one click**
 
-
-
 ![](scroll.png)![](save.png)![](click.png) 
-
 
 
 **Scroll**
@@ -31,6 +28,7 @@ https://chrome.google.com/webstore/detail/kkbkeemffgiheholedniiicjhipnpdlp/publi
 *** Scroll++ is still an experiment *** 
 Please submit an Issue when you have problems or requests.
 
+![https://chrome.google.com/webstore/detail/kkbkeemffgiheholedniiicjhipnpdlp/publish-accepted?hl=nl](chrome.jpg)
+
 
 ![](screenshot.png)
-[https://chrome.google.com/webstore/detail/kkbkeemffgiheholedniiicjhipnpdlp/publish-accepted?hl=nl](http://www.userlogos.org/files/logos/Zaf/Chrome%20Store%20Logo.png)
