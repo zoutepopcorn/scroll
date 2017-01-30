@@ -1,26 +1,30 @@
 # Scroll++
 
-(icon-128.png)
-A chrome plugin to scroll a page.
+![](icon-128.png)
+
+
+*** Scroll your page by one click ***
 
 
 
-(scroll.png) 
 
-(click.png) 
 
-(save.png)
+
+![](scroll.png) 
+
+
 
 
 Scrolls down until you will scroll down the page each 200 ms, it will stop with your mousewheel.
 
 
 
+![](save.png)
 
 This will save your page in a .mhtml, with a extension "date_tile".
 
 
-
+![](click.png) 
 
 This will work in facebook. First scroll down te page, after it this button will click all "See more" links. It experimental.
 
