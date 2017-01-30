@@ -19,10 +19,7 @@ This will save your page in a .mhtml, with a extension "date_tile".
 This will work in facebook. First scroll down te page, after it this button will click all "See more" links. It experimental.
 
 
-
 **Scroll++ download** 
-
-https://chrome.google.com/webstore/detail/kkbkeemffgiheholedniiicjhipnpdlp/publish-accepted?hl=nl
 
 
 **Scroll++ is still an experiment** 
