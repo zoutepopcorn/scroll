@@ -5,6 +5,18 @@
 
 **Scroll your page by one click**
 
+
+# donload
+
+## [chromestore] (https://chrome.google.com/webstore/detail/kkbkeemffgiheholedniiicjhipnpdlp/publish-accepted?hl=nl)
+
+![](chrome.jpg)
+
+
+## firefox comming soon...
+
+
+
 # Howto use
 ![](scroll.png)![](save.png)![](click.png) 
 
@@ -23,15 +35,6 @@ This will work in facebook. First scroll down te page, after it this button will
 **Scroll++ is still an experiment** 
 
 Please submit an Issue when you have problems or requests.
-
-# donload
-
-## [chromestore] (https://chrome.google.com/webstore/detail/kkbkeemffgiheholedniiicjhipnpdlp/publish-accepted?hl=nl)
-
-![](chrome.jpg)
-
-
-## firefox comming soon...
 
 # screenshot
 
