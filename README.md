@@ -23,11 +23,12 @@ This will work in facebook. First scroll down te page, after it this button will
 
 
 **Scroll++ is still an experiment** 
+
 Please submit an Issue when you have problems or requests.
 
 
-![https://chrome.google.com/webstore/detail/kkbkeemffgiheholedniiicjhipnpdlp/publish-accepted?hl=nl](chrome.jpg)
-
+![](chrome.jpg)
+https://chrome.google.com/webstore/detail/kkbkeemffgiheholedniiicjhipnpdlp/publish-accepted?hl=nl
 
 
 
