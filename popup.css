@@ -1,0 +1,55 @@
+html,
+body {
+    background: #ccc;
+}
+
+.wrapper {
+    text-align: center;
+}
+
+#out {
+    color: white;
+    text-decoration: overline;
+}
+
+.app {
+    display: inline;
+    -webkit-font-smoothing: antialiased;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    float: left;
+    margin: 10px 10px 15px;
+    width: 100px;
+    height: 100px;
+    font-size: 3.6em;
+    border-radius: 16px;
+    transition: transform 1s ease;
+}
+
+.app:nth-child(1n) {
+    background: linear-gradient(#83fa6e, #0fd119);
+}
+
+.app:nth-child(2n) {
+    background: linear-gradient(#40d3f6, #1d52f4);
+}
+
+.app:nth-child(3n) {
+    background: linear-gradient(#fc2562, #ff5a37);
+}
+
+.app:nth-child(4n) {
+    background: linear-gradient(#fa54c4, #af4efb);
+}
+
+#show {
+    width: 240px;
+}
+
+.txt {
+    position: relative;
+    top: -10px;
+    font-size: medium;
+    font-weight: bold;
+}
