@@ -7,12 +7,10 @@
 
 
 # donload
+
+## [chrome extension] (https://chrome.google.com/webstore/detail/kkbkeemffgiheholedniiicjhipnpdlp/publish-accepted?hl=nl)   >             >   [firefox extension] (https://addons.mozilla.org/en-US/firefox/addon/scroll/)
+
 ![](http://www.omgchrome.com/wp-content/uploads/2015/08/firefox-chrome-extensions.jpg)
-
-## [chrome extension] (https://chrome.google.com/webstore/detail/kkbkeemffgiheholedniiicjhipnpdlp/publish-accepted?hl=nl)   >>>>   [firefox extension] (https://addons.mozilla.org/en-US/firefox/addon/scroll/)
-
-## firefox comming soon...
-
 
 
 # Howto use
