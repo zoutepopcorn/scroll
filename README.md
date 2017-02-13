@@ -6,9 +6,9 @@
 **Scroll your page by one click**
 
 
-# donload
+# download
 
-## [chrome extension] (https://chrome.google.com/webstore/detail/kkbkeemffgiheholedniiicjhipnpdlp/publish-accepted?hl=nl)   >             >   [firefox extension] (https://addons.mozilla.org/en-US/firefox/addon/scroll/)
+## [chrome extension] (https://chrome.google.com/webstore/detail/scroll%20%20/kkbkeemffgiheholedniiicjhipnpdlp?hl=nl)   >             >   [firefox extension] (https://addons.mozilla.org/en-US/firefox/addon/scroll/)
 
 ![](http://www.omgchrome.com/wp-content/uploads/2015/08/firefox-chrome-extensions.jpg)
 
