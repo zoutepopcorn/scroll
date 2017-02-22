@@ -32,6 +32,15 @@ This will work in facebook. First scroll down te page, after it this button will
 
 Please submit an Issue when you have problems or requests.
 
+**TODO**
+- one source for Firefox and Chrome
+- printly frienly option
+- facebook friend options
+- getting input what options need to be build in.
+
 # screenshot
 
 ![](screenshot.png)
+
+
+
